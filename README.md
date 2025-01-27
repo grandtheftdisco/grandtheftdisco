@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @grandtheftdisco. 
-- 👀 I’m interested in web dev, embedded dev, and figuring out how to keep my cat off the keyboard.
-- 🌱 I’m currently learning Ruby on Rails.
-- 💞️ I’m looking to collaborate on Rails or React apps!
-- 📫 How to reach me - grandtheftdisco@gmail.com
-- ⚡ Fun fact: I love to knit! 
+- 👋 hi, I’m @grandtheftdisco -- webdev noob, embedded dev dilettante.
+- js | ruby | C
+- currently learning rails (& struggling to understand exactly how http works)
+- grandtheftdisco@gmail.com
+- when not coding, am knitting
 
 <!---
 grandtheftdisco/grandtheftdisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
