@@ -1,6 +1,6 @@
 - 👋 hi, I’m Amanda -- webdev noob, embedded dev dilettante.
 - vanilla js | vanilla html/css | ruby | C 
-- currently learning rails (& struggling to understand exactly how http works)
+- currently learning rails
 - say hi! -- grandtheftdisco@gmail.com
 - when not coding, am knitting
 
