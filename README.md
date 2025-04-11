@@ -1,3 +1,5 @@
+❗If you're here for my portfolio: please note I've got a few repos to make public in the days ahead. Just need to write some READMEs!
+
 - 👋 hi, I’m Amanda -- webdev noob, embedded dev dilettante.
 - vanilla js | vanilla html/css | ruby | C 
 - currently learning rails
