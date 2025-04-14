@@ -6,7 +6,7 @@ ____________________________________________________
 
 Welcome to my GitHub! I've been learning software development since July 2025, and made the foray into webdev around October 2025.
 - My goal is to work full-stack, but I've been leaning towards the back-end.
-- I have been focusing on Ruby on Rails, but am considering learning Laravel to really solidfy my understanding of MVC.
+- I have been focusing on Ruby on Rails, and am considering learning Laravel to really solidfy my understanding of MVC.
 - I have not pledged allegiance to vim/nvim, but I've been learning the ropes.
 - If and when I've got free time, I am either knitting or tinkering with my Arduino Uno kit
 
