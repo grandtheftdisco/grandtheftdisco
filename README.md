@@ -1,6 +1,10 @@
+____________________________________________________
+____________________________________________________
 ## ❗If you're here for my portfolio: 
-- please note: I've got another repo to make public in the days ahead. Just need to write a README!
-- check out [Henventory](https://www.github.com/grandtheftdisco/henventory) in the meantime!
+- Hi! Thanks for stopping by. 🙂
+- Check out [Henventory](https://www.github.com/grandtheftdisco/henventory) to see my first full-stack project.
+- I'm also building [Siempreviva](https://www.github.com/grandtheftdisco/siempreviva) out in the open, so be sure to visit that repo to see my progress!
+____________________________________________________
 ____________________________________________________
 ## 👋 Hi, I’m Amanda: webdev noob, embedded dev dilettante.
 
@@ -12,12 +16,12 @@ Welcome to my GitHub! I've been learning software development since July 2025, a
 
 ____________________________________________________
 # 👩‍💻 Currently building
-- An ecommerce site for a small business
-  - the repo will be public soon, so that I can build out in the open: stay tuned!
-
+- [Siempreviva](https://www.github.com/grandtheftdisco/siempreviva): an ecommerce site for a small business.
+- Also working on patches & beta features for [Henventory](https://www.github.com/grandtheftdisco/henventory) when I can.
 ____________________________________________________
 # 📚 Stuff I've been learning
 `(SELECT * FROM skills ORDER BY date DESC)`
+- Stripe integrations via API
 - Ruby on Rails
 - Hotwire
 - Postgres
