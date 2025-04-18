@@ -6,7 +6,7 @@ ____________________________________________________
 - I'm also building [Siempreviva](https://www.github.com/grandtheftdisco/siempreviva) out in the open, so be sure to visit that repo to see my progress!
 ____________________________________________________
 ____________________________________________________
-## 👋 Hi, I’m Amanda: webdev noob, embedded dev dilettante.
+## 👋 Hi, I’m Amanda.
 
 Welcome to my GitHub! I've been learning software development since July 2025, and made the foray into webdev around October 2025.
 - My goal is to work full-stack, but I've been leaning towards the back-end.
