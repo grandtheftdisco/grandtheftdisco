@@ -21,6 +21,7 @@ ____________________________________________________
 ____________________________________________________
 # 📚 Stuff I've been learning
 `(SELECT * FROM skills ORDER BY date DESC)`
+- TDD
 - async JavaScript
 - Stripe integrations via API
 - Ruby on Rails
