@@ -20,7 +20,7 @@
 ```ruby
 # What I build with confidence
 backend_skills = {
-  languages: ["Ruby", "JavaScript", "HTML/CSS", "SQL", "C"],
+  languages: ["Ruby", "JavaScript", "SQL", "C"],
   frameworks: ["Ruby on Rails"],
   databases: ["PostgreSQL"],
   apis: ["Stripe Payment Integration", "RESTful APIs", "Webhooks"],
