@@ -82,8 +82,4 @@ frontend_skills = {
 
 ## 📬 Let's Build Something Together
 **Status**: Available for full-stack or backend roles  
-**Contact**: [grandtheftdisco@gmail.com](mailto:grandtheftdisco@gmail.com)  
-**Approach**: I solve problems until they stay solved
-
----
-*"I don't stop until it works, scales, and makes sense."*
+**Contact**: [grandtheftdisco@gmail.com](mailto:grandtheftdisco@gmail.com)
