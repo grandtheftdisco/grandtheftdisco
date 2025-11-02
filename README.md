@@ -53,6 +53,15 @@ frontend_skills = {
 - **Production Architecture** - Background jobs, Redis caching, comprehensive error handling
 - **Responsive Design** - Mobile-optimized with dropdown cart preview and collapsible navigation
 
+### [🍞 Toasty - Windows System Tray App](https://github.com/grandtheftdisco/toasty)
+**Powershell-based notification filtering for deep work**
+- I got tired of missing _'want anything for lunch?'_ texts because I was heads-down with my phone on silent in my desk drawer
+- The Windows Phone Link desktop app seemed like a good fix, but it doesn't allow for content- or sender-based filtering
+- That was no different than having my phone on my desk: too disruptive!
+- So, I decided to build my own filter system ¯\\_(ツ)_/¯
+- I plan to iterate on this project down the road by building a WiFi-enabled notification device with Toasty's filters
+- _full project details coming soon!_
+
 ### [🐔 Henventory - Inventory Management System](https://github.com/grandtheftdisco/henventory) 
 **My first full-stack project - CRUD application with authentication**
 - Built complete user authentication and invite-token system
@@ -75,7 +84,6 @@ frontend_skills = {
 
 ## When I'm Not Coding
 - **Knitting** - Because debugging code and picking up dropped stitches require similar patience
-- **Arduino Projects** - Learning more about the metal gives me context for the software I build
 - **Chicken Farming** - Battle-testing [Henventory](https://github.com/grandtheftdisco/henventory) day after day!
 
 ---
