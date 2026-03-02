@@ -12,17 +12,17 @@ backend_skills = {
   languages: ["Ruby", "JavaScript"],
   frameworks: ["Ruby on Rails"],
   databases: ["PostgreSQL"],
-  apis: ["Stripe Payment Integration", "Cloudinary", "webhook routing"],
-  architecture: ["Service Objects", "Background Jobs", "Redis Caching"],
+  apis: ["Stripe Payment Integration", "Cloudinary", "Algolia Search", "webhook routing"],
+  architecture: ["service objects", "background jobs", "Redis caching"],
   testing: ["TDD/BDD", "MiniTest"],
-  practices: ["Code Review", "Git Workflows", "Linux Development"]
+  practices: ["code review", "git workflows", "Linux development"]
 }
 ```
 
 ```ruby
 frontend_skills = {
-  styling: ["HTML5", "Tailwind CSS", "Accessibility", "Responsive Design"],
-  javascript: ["Vanilla JS", "Async/Await", "DOM Manipulation"],
+  styling: ["HTML5", "Tailwind CSS", "accessibility", "responsive/mobile-first design"],
+  javascript: ["Vanilla JS", "async/await", "DOM manipulation"],
   frameworks: ["Hotwire"]
 }
 ```
