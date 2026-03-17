@@ -33,13 +33,17 @@ currently_exploring = ["embedded dev", "procedural programming"]
 
 ## Featured Projects
 
-### [🪻 Siempreviva - Production Ecommerce Platform](https://github.com/grandtheftdisco/siempreviva)
-**Full-stack Rails application built for real client**
-- **Complex Stripe Integration** - Complete payment processing with webhooks, refunds, order management
-- **Custom Admin Dashboard** - Authentication, order fulfillment workflow 
-- **Advanced Cart System** - Real-time updates, validation services, responsive UI
-- **Production Architecture** - Background jobs, Redis caching, comprehensive error handling
-- **Responsive Design** - Mobile-optimized with dropdown cart preview and collapsible navigation
+### 🪻 Siempreviva - Greenfield E-Commerce Platform (Private Repo)
+Full-stack Rails 8 application built for a botanical wellness business
+- Dual-Path Payment Processing: Synchronous + webhook paths coordinated via pessimistic locking for idempotent payment handling
+- Service Layer Architecture: Five modular service objects handling cart, payments, webhooks, admin fulfillment, and Stripe caching
+- Webhook Security: Stripe HMAC and Cloudinary SHA1 signature verification with Redis-backed replay attack prevention
+- Data Integrity Patterns: Reusable soft deletion concern with cascading deletes, DB-level constraints, and atomic transactions
+- Background Job Pipeline: Solid Queue for async payment retry with backoff, abandoned cart cleanup, and search index sync
+
+✨ _Stay tuned for the production site! I'll share the link here when we're live._
+
+____________
 
 ### [🐔 Henventory - Inventory Management System](https://github.com/grandtheftdisco/henventory) 
 **My first full-stack project - CRUD application with authentication**
