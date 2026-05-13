@@ -45,11 +45,11 @@ Full-stack Rails 8 application built for a botanical wellness business
 
 ____________
 
-### [🐔 Henventory - Inventory Management System](https://github.com/grandtheftdisco/henventory) 
-**My first full-stack project - CRUD application with authentication**
-- Built complete user authentication and invite-token system
-- Implemented inventory tracking with PostgreSQL database design
-- Created responsive UI with Tailwind CSS
+  ### [🐔 Henventory - Egg Production Tracker](https://github.com/grandtheftdisco/henventory)
+  **My first production Rails app, now in active feature expansion and rebrand (2026)**
+  - Mid-rollout of the Coop redesign: warm storybook palette, mobile-first PWA, snap-scrolled dashboard with Quick-Log bottom sheet (Phase 0 shipped, Phase 1 in PR)
+  - Shipped `collected_at` backdating for users who log eggs after the fact, using a phased rollout (nullable column → backfill → views) — final NOT NULL migration still ahead
+  - Built an invite-token system on top of Rails 8's built-in authentication to gate signups
 
 ---
 
