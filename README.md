@@ -25,7 +25,7 @@ frontend_skills = {
 }
 ```
 ```ruby
-currently_exploring = ["embedded dev", "procedural programming"]
+currently_exploring = ["api development"]
 ```
 ---
 
