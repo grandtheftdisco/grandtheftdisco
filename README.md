@@ -33,6 +33,33 @@ currently_exploring = ["embedded dev", "procedural programming"]
 
 ## Featured Projects
 
+### 🐊 [Cajun French API](https://cajunfrenchapi.zoasystems.dev)
+A public REST API and community-curated lexicon for Cajun French (ISO 639-3: `frc`): an endangered Romance language spoken across south Louisiana, with no existing programmatic resource
+
+- This is a passion project. I come from a Cajun family but the language was lost in my parents' generation, due to [governmental suppression and social persecution](https://www.mikegravel.org/why-is-cajun-french-in-danger-of-disappearing/).
+- ⚜️<em>Es-tu cadien(ne)?</em> Ou es-tu un developer? [I'd love to hear from you.](mailto:cajunfrenchapi@gmail.com)
+
+#### Tentative Features
+- Linguistically Accurate Schema
+  - Dual `slug`/`display_form` storage to handle non-standardized orthography
+  - `spelling_variants` array to preserve all documented forms
+  - `standard_french` nullable by design for loanwords with no Parisian equivalent (Choctaw, Spanish, African language borrowings)
+- Controlled Regional Vocabulary
+  - Parish-level region tagging backed by a constrained enum
+  - Invalid regions rejected at the API layer, with slugs sourced from academic literature (Valdman 2010, Papen & Rottet 1997)
+- Variant-Aware from Day One
+  - Schema carries a `variant` field and `related_entry_ids` cross-references now, before any expansion is planned
+  - Avoiding a painful migration when other variants of LA French, like Louisiana Creole, are eventually added
+- Submissions Queue
+  - Contributors write to a staging table; approved entries promote to the public dataset
+  - This provides a full audit trail, meaning no bad data reaches consumers, with a grant-committee-friendly paper trail
+- Academic Interoperability
+  - Every entry links to Glottolog, Wikidata, ISO 639-3, the Endangered Languages Project, Linguasphere, and other extant online resources for integration with existing linguistic infrastructure
+
+✨ STATUS: pre-launch; seed data and region list in progress
+
+____________
+
 ### 🪻 Siempreviva - Greenfield E-Commerce Platform (Private Repo)
 Full-stack Rails 8 application built for a botanical wellness business
 - Dual-Path Payment Processing: Synchronous + webhook paths coordinated via pessimistic locking for idempotent payment handling
