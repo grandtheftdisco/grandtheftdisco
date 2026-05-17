@@ -1,7 +1,5 @@
 # 💻 Amanda | Full-Stack Developer (Backend-Focused)
-Building production-ready web applications with Ruby on Rails
-
-**Currently Available for Full-Stack & Backend Roles** | [Let's Connect!](mailto:grandtheftdisco@gmail.com)
+Building production-ready web applications with Ruby on Rails, and the old-school HTML+CSS combo.
 
 ---
 
@@ -87,5 +85,5 @@ ____________
 ---
 
 ## 📬 Let's Build Something Together
-**Status**: Available for full-stack or backend roles  
-**Contact**: [grandtheftdisco@gmail.com](mailto:grandtheftdisco@gmail.com)
+**Status**: Seeking contributors for the Cajun French API project
+**Contact**: [cajunfrenchapi@gmail.com](mailto:cajunfrenchapi@gmail.com)
