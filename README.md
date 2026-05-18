@@ -31,8 +31,8 @@ currently_exploring = ["api development"]
 
 ## Featured Projects
 
-### 🐊 [Cajun French API](https://cajunfrenchapi.zoasystems.dev)
-A public REST API and community-curated lexicon for Cajun French (ISO 639-3: `frc`): an endangered Romance language spoken across south Louisiana, with no existing programmatic resource
+### 🐊 [Cajun French Digital Lexicon & API](https://cajunfrench.zoasystems.dev)
+A digital community-curated lexicon & REST API for Cajun French (ISO 639-3: `frc`): an endangered Romance language spoken across south Louisiana, with no existing programmatic resource
 
 - This is a passion project. I come from a Cajun family but the language was lost in my parents' generation, due to [governmental suppression and social persecution](https://www.mikegravel.org/why-is-cajun-french-in-danger-of-disappearing/).
 - ⚜️<em>Es-tu cadien(ne)?</em> Ou es-tu un developer? [I'd love to hear from you.](mailto:cajunfrenchapi@gmail.com)
